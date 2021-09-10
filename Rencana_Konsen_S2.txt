@@ -1,0 +1,7 @@
+Rencana mengambil Konsentrasi Studi S2
+- Keamanan Jaringan
+- Network Engineer
+ *Cisco
+ *MikroTik
+ *Ip Service
+- Web Proggramming

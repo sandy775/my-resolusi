@@ -1,10 +1,14 @@
 Rencana mengambil Konsentrasi Studi S2
 - Keamanan Jaringan
  *Criptografi
+
+
  ^aes128
  ^rsa1028
-- Network Engineer
+
+- Network Engine
  *Cisco
  *MikroTik
  *Ip Service
 - Web Proggramming
+ ^ Laravel
